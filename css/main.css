@@ -1,0 +1,207 @@
+div {
+  margin: 0 30% 30%;
+  position: relative;
+
+
+}
+body {
+  background-color: #1b262c;
+  margin: 0;
+  text-align: center;
+}
+h3 {
+  font-family: 'RocknRoll One', sans-serif;
+  color: white;
+  position: absolute;
+  left: 110px;
+  top: 40px;
+  width: 100px;
+}
+a {
+  color: #bbe1fa;
+  font-weight: lighter;
+  font-family: 'RocknRoll One', sans-serif;
+  text-decoration: none;
+}
+h1 {
+  font-family: 'RocknRoll One', sans-serif;
+  position: absolute;
+  color: #83b8d6;
+  left: 200px;
+  right: 100px;
+  top: 50px;
+  bottom: 100px;
+  font-size: 70px;
+}
+h6 {
+  font-family: 'RocknRoll One', sans-serif;
+  position: absolute;
+  color: #83b8d6;
+  right: 400px;
+  top: 150px;
+  bottom: 100px;
+  font-size: 20px;
+}
+h5 {
+  font-family: 'RocknRoll One', sans-serif;
+  color: #83b8d6;
+  top: 50px;
+  left: auto;
+  right: auto;
+  font-size: 20px;
+  font-weight: normal;
+  position: relative;
+
+}
+
+
+
+
+
+
+a:hover {
+  color: white;
+}
+
+.ink {
+  width: 2.5%;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+.opening-header {
+  padding-top: 50px;
+  margin: 0;
+  height: 300px;
+}
+.opening-header2 {
+  padding-top: 50px;
+  margin: 0;
+  height: 100px;
+}
+.gallery {
+  position: absolute;
+  right: 50px;
+  font-weight: lighter;
+}
+.about {
+  position: absolute;
+  right: 120px;
+  font-weight: lighter;
+}
+.inksmything-title {
+  padding-top: 50px;
+  background-color: #2e424c;
+  padding: 0;
+  height: 360px;
+  position: relative;
+  margin: 0;
+  width: auto;
+}
+
+.inky {
+  width: 250px;
+  position: absolute;
+  left: 300px;
+}
+.blep {
+  position: absolute;
+  width: 50px;
+  top: 300px;
+  right: 360px;
+}
+.welcome {
+  text-align: center;
+  padding-top: 30px;
+  position: relative;
+  margin: 0;
+}
+.LONGTREE {
+  width: 60%;
+  right: auto;
+  left: auto;
+  text-align: center;
+}
+.copyright {
+  background-color: #354c57;
+  height: 100px;
+  position: relative;
+  margin: 0;
+  width: auto;
+  text-align: center;
+}
+.copy {
+  color: white;
+  margin: 0;
+}
+.about-1 {
+  font-family: 'RocknRoll One', sans-serif;
+  position: absolute;
+  color: white;
+  bottom: 100px;
+  font-size: 20px;
+  width: 30%;
+  left: 820px;
+  top: 110px;
+  text-align: left;
+  font-weight: lighter;
+}
+.about-2 {
+  font-family: 'RocknRoll One', sans-serif;
+  position: absolute;
+  color: white;
+  bottom: 100px;
+  font-size: 20px;
+  width: 30%;
+  left: 820px;
+  top: 280px;
+  text-align: left;
+  font-weight: lighter;
+}
+.about-3 {
+  font-family: 'RocknRoll One', sans-serif;
+  position: absolute;
+  color: white;
+  bottom: 100px;
+  font-size: 20px;
+  width: 30%;
+  left: 820px;
+  top: 400px;
+  text-align: left;
+  font-weight: lighter;
+}
+.about-me {
+  width: 30%;
+  position: absolute;
+  left: 150px;
+  top: 100px;
+}
+.home {
+  position: absolute;
+  right: 120px;
+}
+.aboutdiv {
+  height: 600px;
+  position: relative;
+  margin: 0;
+  padding-bottom: 60px;
+}
+.me {
+  font-size: 50px;
+  font-weight: normal;
+  position: absolute;
+  left: 300px;
+  margin: 0;
+}
+.gallerydiv {
+  text-align: center;
+  position: relative;
+  margin: 0;
+  height: 539px;
+  padding-top: 0;
+}
+.hi {
+  position: absolute;
+  top: 300px;
+
+}
